@@ -1,2 +1,3 @@
 ﻿Configuration.xml-->Configuration.xml
+Catalogs\Номенклатура.xml-->Catalogs\Номенклатура.xml
 Languages\Русский.xml-->Languages\Русский.xml
